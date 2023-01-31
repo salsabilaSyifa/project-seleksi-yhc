@@ -1,4 +1,9 @@
 # Sistem Pengelolaan Data Mahasiswa
+Nama: Salsabila Syifa<br />
+Asal Kampus: Universitas Lambung Mangkurat<br />
+Asal Daerah: Banjarmasin, Kalimantan Selatan<br />
+
+# Dokumentasi Proyek
 <img src="1.png"><br />
 Halaman Indeks Sebelum login
 
