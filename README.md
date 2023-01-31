@@ -12,7 +12,3 @@
 ADMIN<br />
 Username : admin<br />
 Password : admin123<br />
-
-USER<br />
-Username : dinna<br />
-Password : dinna123<br />
